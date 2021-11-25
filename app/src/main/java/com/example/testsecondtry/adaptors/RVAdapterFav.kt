@@ -26,12 +26,12 @@ class RVAdapterFav(private val activity: FavoriteFragment) : RecyclerView.Adapte
         val photo = photos[position]
 
         holder.binding.apply {
-            tvColor.text= photo.photoTitle
+          tvColor.text= photo.photoTitle
             Glide.with(activity).load(photo.PhotoLink).into(imageView)
 
-            btDelete.setOnClickListener {
+         btDelete.setOnClickListener {
                 activity.viewModel.deletePhoto(photo.id)
-                Toast.makeText(activity.activity,"photo deleted",Toast.LENGTH_LONG).show()
+               Toast.makeText(activity.activity,"photo deleted",Toast.LENGTH_LONG).show()
             }
 
         }

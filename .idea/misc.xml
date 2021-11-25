@@ -4,12 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/button_shape.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/delete.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/etshape.xml" value="0.19166666666666668" />
-        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/fav_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/favorite.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/round_search.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/drawable/search.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/fav_row.xml" value="0.3333333333333333" />
-        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/fragment_browser.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/fragment_browser.xml" value="0.4025670945157526" />
         <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/fragment_favorite.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/layout/item_row.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/mipmap-anydpi-v26/fav.xml" value="0.1671875" />
+        <entry key="..\:/Users/at/AndroidStudioProjects/testSecondTry/app/src/main/res/mipmap-anydpi-v26/fav_round.xml" value="0.1671875" />
       </map>
     </option>
   </component>

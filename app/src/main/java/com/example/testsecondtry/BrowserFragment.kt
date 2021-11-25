@@ -25,7 +25,7 @@ class BrowserFragment : Fragment() {
 
     lateinit var rvMain: RecyclerView
     lateinit var etSearch: EditText
-    lateinit var btSearch: Button
+    lateinit var btSearch: ImageView
     private lateinit var llBottom: LinearLayout
     private lateinit var ivMain: ImageView
     lateinit var viewModel: MyViewModel
@@ -84,6 +84,7 @@ class BrowserFragment : Fragment() {
 
         })
     }
+
 
     fun openImg(link: String) {
         Glide.with(this).load(link).into(ivMain)

@@ -24,14 +24,14 @@ class RVAdapter(
     }
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
-        val entry = entries[position]!!
+        val entry = entries[position]
         holder.binding.apply {
            Glide.with(activity).load(entry.links.download).into(ivThumbnail)
            llItemRow.setOnClickListener {
 
                activity.openImg(entry.links.download)
                activity.addPhoto(entry.alt_description, entry.links.download)
-               Toast.makeText(activity.activity,"photo added to db", Toast.LENGTH_LONG).show()
+               Toast.makeText(activity.activity,"photo added to favorite", Toast.LENGTH_LONG).show()
            }
 
         }
